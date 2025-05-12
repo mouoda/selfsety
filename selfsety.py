@@ -15,12 +15,12 @@ print('''
 sazande : GHOGHNOS_BLACK
 ''')
 # اطلاعات API تلگرام
-api_id = 24996128
-api_hash = '7ea852f749900d5669d71f2c87d1e263'
+api_id = 1412939
+api_hash = 'ea31082c772944b660389bd287a993ac'
 
 client  = TelegramClient('session', api_id, api_hash)
 # آیدی عددی تلگرام
-allowed_user_id = 5066991479,7350316668
+allowed_user_id = 747073225,747073225
 
 # لیست دشمنان و دوستان و گزارشات
 enemies = {}
